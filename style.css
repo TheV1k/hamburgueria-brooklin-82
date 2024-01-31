@@ -1,0 +1,190 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&family=Pontano+Sans:wght@300;400&family=Yellowtail&display=swap');
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+
+    --cor-fonte: #f6f6f6;
+    --cor-hoover: #ff0084;
+    --fonte-titulo: 'Lalezar';
+    --fonte-subtitulo: 'Yellowtail';
+    --fonte-texto: 'Pontano Sans', sans-serif;;
+}
+
+body{
+
+    
+    background-image: url("./img/fundo.jpg");
+    background-size: 100%;
+     background-repeat: no-repeat;
+}
+
+
+
+.logo{
+    
+    display: flex;
+    width: 10em;
+    margin-left: 3vw;
+    margin-top: 1vw;
+}
+
+.navegacao{
+
+    display: flex;
+    margin-top: -5vw;
+    margin-left: 18vw;
+    justify-content: flex-start;
+    margin-right: 25vw;
+    padding: 0 2vw;
+   
+    
+}
+
+.navegacao__link{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    font-family: var(--fonte-texto);
+    background: transparent;
+    /*border: solid 1px #f6f6f6;*/
+    font-size: 1em;
+    color: var(--cor-hoover);
+    margin-left: 95px;
+    text-decoration: none;
+    padding: 1em;
+
+}
+
+.navegacao__link:hover{
+
+    text-shadow: 
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px var(--cor-hoover),
+    0 0 82px var(--cor-hoover),
+    0 0 92px var(--cor-hoover),
+    0 0 102px var(--cor-hoover),
+    0 0 151px var(--cor-hoover);;
+
+}
+
+.navegacao__pesquisa{
+
+    display: grid;
+    color: var(--cor-fonte);
+    width: 250px;
+    height: 35px;
+    border-radius: 25px;
+    background: url("./img/lupa.png") no-repeat;
+    background-position: right;
+    margin-left: 2em;
+    border: solid 1px #f6f6f6;
+    
+}
+
+.navegacao__pesquisa::placeholder{
+
+    text-align: center;
+    color: var(#000000);
+
+}
+
+.pagina{
+
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+    align-items: flex-start;
+    width: 30vw;
+    margin: 0 4vw;
+}
+
+.pagina__titulo{
+
+    font-family: var(--fonte-subtitulo);
+    font-size: 48px;
+    margin-top: 2vw;
+    animation: flicker 1.2s infinite alternate;
+    color: #fff;
+    /*color: var(--cor-hoover);*/
+    text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px var(--cor-hoover),
+    0 0 82px var(--cor-hoover),
+    0 0 92px var(--cor-hoover),
+    0 0 102px var(--cor-hoover),
+    0 0 151px var(--cor-hoover);
+}
+
+@keyframes flicker {
+    
+    0%, 18%, 22%, 25%, 53%, 57%, 100% {
+  
+        text-shadow:
+        0 0 4px #fff,
+        0 0 11px #fff,
+        0 0 19px #fff,
+        0 0 40px #ff0084
+        0 0 80px #ff0084,
+        0 0 90px #ff0084,
+        0 0 100px #ff0084,
+        0 0 150px #ff0084;
+    
+    }
+    
+    20%, 24%, 55% {        
+        text-shadow: none;
+    }    
+  }
+  
+
+.pagina__texto{
+
+    font-family: var(--fonte-texto);
+    font-size: 32px;
+    color: var(--cor-fonte);
+    margin-top: 1em;
+}
+
+.pagina__botao{
+
+    display: flex;
+    align-items: center;
+    margin-top: 1em;
+    font-family: var(--fonte-texto);
+    color: var(--cor-fonte);
+    font-size: 38px;
+    border: solid 2px #ff0084;
+    text-decoration: none;
+    padding: 0 2em;
+    transition: 1.5s;
+}
+
+.pagina__botao:hover{
+
+    
+   
+   background-color: var(--cor-hoover);
+    box-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px var(--cor-hoover),
+    0 0 82px var(--cor-hoover),
+    0 0 92px var(--cor-hoover),
+    0 0 102px var(--cor-hoover),
+    0 0 151px var(--cor-hoover);
+
+}
+
+
