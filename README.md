@@ -1,6 +1,6 @@
 <h1 align="center">Landing Page - Restaurante Brooklin 82</h1>
 
-<img src="https://github.com/TheV1k/hamburgueria-brooklin-82/blob/main/img/logo.png">
+<p align="center"> src="https://github.com/TheV1k/hamburgueria-brooklin-82/blob/main/img/logo.png"></p>
 
 <p align="center">🚧Em construção🚧</p>
 
@@ -20,7 +20,7 @@
 
 <h2 align="center">Autor</h2>
 
-<img align="center" src="https://github.com/TheV1k/hamburgueria-brooklin-82/blob/main/img/victor.jpeg" style="width:25%" >
+<p align="center"><img align="center" src="https://github.com/TheV1k/hamburgueria-brooklin-82/blob/main/img/victor.jpeg" style="width:25%" ></p>
 
 <p align= "center"><a href="https://www.linkedin.com/in/victor-moreira-ramos-2b91b479/">Victor Moreira Ramos</a></p>
 
