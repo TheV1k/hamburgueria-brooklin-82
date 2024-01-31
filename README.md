@@ -1,6 +1,6 @@
 <h1 align="center">Landing Page - Restaurante Brooklin 82</h1>
 
-<p align="center"> src="https://github.com/TheV1k/hamburgueria-brooklin-82/blob/main/img/logo.png"></p>
+<p align="center"> <img src="https://github.com/TheV1k/hamburgueria-brooklin-82/blob/main/img/logo.png"></p>
 
 <p align="center">🚧Em construção🚧</p>
 
