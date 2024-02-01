@@ -19,7 +19,7 @@
 
 <h2 align="center">Veja o resultado</h2>
 
-<img width="640" height="300" src="https://www.loom.com/embed/cd235b324b7e4b49b07d4990506de436?sid=2d06f449-7b02-4667-a466-1ea493929a25" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+[<img width="640" height="300" src="https://www.loom.com/embed/cd235b324b7e4b49b07d4990506de436?sid=2d06f449-7b02-4667-a466-1ea493929a25" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>](https://www.loom.com/share/cd235b324b7e4b49b07d4990506de436?sid=eb529f71-d54b-45bd-bad4-bf4f2f287576)
 
 <p align="center"><a href="https://hamburgueria-brooklin-82.vercel.app/">Clique aqui</a></p>
 
