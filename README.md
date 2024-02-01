@@ -8,6 +8,7 @@
 
 <p align="center"><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/></p>
 
+
 <h2 align="center"> Sobre o projeto </h2>
 
 <p>Projeto criado para prática de utilização de recursos HTML e CSS para construção de páginas web. A proposta consiste na criação de uma landing page para a hamburgueria fictícia "Brooklin 82" destacando a oferta de um lanche.</p>
@@ -17,6 +18,8 @@
 <p>Existe a possibilidade de o projeto evoluir para criação de outras páginas como o desenvolvimento de cardápio, carrinho trabalhando além das linguagens já utilizadas a inserção de interações do usuário via JavaScript</p>
 
 <h2 align="center">Veja o resultado</h2>
+
+<iframe width="640" height="300" src="https://www.loom.com/embed/cd235b324b7e4b49b07d4990506de436?sid=2d06f449-7b02-4667-a466-1ea493929a25" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p align="center"><a href="https://hamburgueria-brooklin-82.vercel.app/">Clique aqui</a></p>
 
